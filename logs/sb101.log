@@ -1,0 +1,13 @@
+*[INFO ]-- Starting Sb101Application using Java 21.0.2 with PID 15364 (C:\Users\sibee.j\Downloads\sb101\sb101\target\classes started by sibee.j in C:\Users\sibee.j\Downloads\sb101\sb101)--
+*[INFO ]-- No active profile set, falling back to 1 default profile: "default"--
+*[INFO ]-- Starting service [Tomcat]--
+*[INFO ]-- Starting Servlet engine: [Apache Tomcat/10.1.28]--
+*[INFO ]-- Initializing Spring embedded WebApplicationContext--
+*[INFO ]-- HikariPool-1 - Starting...--
+*[INFO ]-- HikariPool-1 - Added connection conn0: url=jdbc:h2:file:~/sb101 user=SA--
+*[INFO ]-- HikariPool-1 - Start completed.--
+*[INFO ]-- Started Sb101Application in 7.249 seconds (process running for 8.617)--
+*[INFO ]-- Initializing Spring DispatcherServlet 'dispatcherServlet'--
+*[INFO ]-- Before method:Person com.kgisl.sb101.service.PersonServiceImpl.updatePerson(int,Person)--
+*[INFO ]-- After method:Person com.kgisl.sb101.service.PersonServiceImpl.updatePerson(int,Person)--
+*[WARN ]-- HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m46s119ms86µs100ns).--
